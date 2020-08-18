@@ -1,3 +1,4 @@
 This is a demo test for working of git version control
 conducted on 18th August 2020
-This is the second commit  
+This is the second commit
+This is the new branch  
